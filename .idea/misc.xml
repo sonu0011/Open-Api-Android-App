@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_account_circle_white_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_add_circle_outline_white_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_check_green_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_edit_black_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_filter_list_grey_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_home_white_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_mood_bad_black_24dp.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/ic_screenshot_29.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/main_button_drawable.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/drawable/red_button_drawable.xml" value="0.185" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/activity_auth.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_account.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_blog.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_change_password.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_create_blog.xml" value="0.25" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_forgot_password.xml" value="0.14351851851851852" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_launcher.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_register.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_update_account.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_update_blog.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/fragment_view_blog.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/layout_blog_filter.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/layout_blog_list_item.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/layout/layout_no_more_results.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/menu/edit_view_menu.xml" value="0.17239583333333333" />
+        <entry key="..\:/Learning/OpenApiAndroidApp/app/src/main/res/menu/publish_menu.xml" value="0.17239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
